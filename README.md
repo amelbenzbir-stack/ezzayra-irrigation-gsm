@@ -2,8 +2,8 @@
 
 > Stage d'été — Informatique embarquée  
 > **Entreprise :** EZZAYRA SOLUTIONS, Tunis  
-> **Étudiant :** Amel Ben Zbir  
-> **Durée :** 6 à 8 semaines
+> **Étudiant :** Amal Ben Zbir  
+> **Durée :** 6 semaines
 
 ---
 
@@ -163,4 +163,4 @@ python sim_modem.py
 
 ---
 
-*Stage réalisé dans le cadre de l'écosystème AgriManager — EZZAYRA SOLUTIONS, Tunis, 2025*
+*Stage réalisé dans le cadre de l'écosystème AgriManager — EZZAYRA SOLUTIONS, Tunis, 2026*
