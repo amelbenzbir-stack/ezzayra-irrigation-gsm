@@ -1,0 +1,18 @@
+ERC report (2026-06-12T15:30:30, Encoding UTF8)
+Report includes: Errors, Warnings, Exclusions
+
+***** Sheet /
+[no_connect_dangling]: Unconnected "no connection" flag
+    ; warning
+    @(5700 mils, 4550 mils): No Connect
+[footprint_link_issues]: La configuration actuelle n'inclut pas la librairie d'empreintes 'PCM_arduino-library'
+    ; warning
+    @(7000 mils, 3950 mils): Symbol A1 [Arduino_Mega2560_R3_Shield]
+
+ ** ERC messages: 2  Errors 0  Warnings 2
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters
